@@ -76,8 +76,8 @@
 			These are values from the demo "openid-connect-server-webapp" project of MITREid Connect.
 		-->
 		<bean class="org.mitre.openid.connect.client.SubjectIssuerGrantedAuthority">
-			<constructor-arg name="subject" value="90342.ASDFJWFA" />
-			<constructor-arg name="issuer" value="http://localhost:8080/openid-connect-server-webapp/" />
+            <constructor-arg name="subject" value="210281-9988" />
+            <constructor-arg name="issuer" value="http://localhost:8080/" />
 		</bean>
 	</util:set>
 
