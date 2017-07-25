@@ -5,7 +5,13 @@ Simple web application that demonstrates the use of the OpenID Connect client
 code and configuration.
 
 Note: The default branch of this fork is `oda`. This branch contains 
-configuration for [oda-idp]. 
+configuration for [oda-idp]. So after cloning run 
+
+    git checkout oda
+
+
+Usage
+-----
 
 Requires [oda-idp] running on localhost:8080.
 
