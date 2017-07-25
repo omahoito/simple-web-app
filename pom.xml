@@ -173,7 +173,7 @@
 				<configuration>
 			    <scanIntervalSeconds>10</scanIntervalSeconds>
 				    <webApp>
-				      	<contextPath>/</contextPath>
+				      	<contextPath>/simple-web-app</contextPath>
 				      	<webInfIncludeJarPattern>.*/spring-[^/]*\.jar$</webInfIncludeJarPattern>
 				    </webApp>
 			  </configuration>
