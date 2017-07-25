@@ -176,6 +176,7 @@
 				      	<contextPath>/simple-web-app</contextPath>
 				      	<webInfIncludeJarPattern>.*/spring-[^/]*\.jar$</webInfIncludeJarPattern>
 				    </webApp>
+					<httpConnector><port>7070</port></httpConnector>
 			  </configuration>
 			</plugin>
 		</plugins>
