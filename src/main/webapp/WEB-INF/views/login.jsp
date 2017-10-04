@@ -17,7 +17,7 @@
 
                     <div class="span8">
                         <form action="openid_connect_login" method="get">
-                            <input type="text" class="input-xxlarge" name="identifier" id="identifier" value="http://localhost:8080/"/>
+                            <input type="text" class="input-xxlarge" name="identifier" id="identifier" value="http://localhost:6088/idp/"/>
                             <input type="submit" value="Log In" />
                         </form>
                     </div>

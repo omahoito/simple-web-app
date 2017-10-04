@@ -13,7 +13,7 @@ configuration for [oda-idp]. So after cloning run
 Usage
 -----
 
-Requires [oda-idp] running on localhost:8080.
+Requires [oda-idp] running on localhost:6088.
 
 Ensure you have [Maven](https://maven.apache.org/download.cgi) installed. 
 To start the web app, run
