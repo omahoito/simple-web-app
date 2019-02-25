@@ -238,6 +238,7 @@
 						<value>address</value>
 						<value>profile</value>
 						<value>phone</value>
+                        <value>oda-patient</value>
 					</set>
 				</property>
 				<property name="tokenEndpointAuthMethod" value="SECRET_BASIC" />
@@ -284,6 +285,7 @@
 								<value>address</value>
 								<value>profile</value>
 								<value>phone</value>
+                                <value>oda-patient</value>
 							</set>
 						</property>
 						<property name="tokenEndpointAuthMethod" value="SECRET_BASIC" />
@@ -316,6 +318,7 @@
 								<value>address</value>
 								<value>profile</value>
 								<value>phone</value>
+                                <value>oda-patient</value>
 							</set>
 						</property>
 						<property name="tokenEndpointAuthMethod" value="SECRET_BASIC" />
@@ -339,6 +342,7 @@
 						<value>address</value>
 						<value>profile</value>
 						<value>phone</value>
+                        <value>oda-patient</value>
 					</set>
 				</property>
 				<property name="tokenEndpointAuthMethod" value="SECRET_BASIC" />
